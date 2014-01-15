@@ -13,6 +13,8 @@ import android.os.Build;
 
 public class NerdLaucherActivity extends SingleFragmentActivity {
 
+
+
     @Override
     protected Fragment createFragment() {
         return new NerdLauncherFragment();
